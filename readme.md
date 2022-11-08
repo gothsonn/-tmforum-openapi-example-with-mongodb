@@ -25,5 +25,3 @@ maven spring-boot:run
 * [Blog Post - MongoDB and TMForum](www.mongodb.com)
 * [TMForum Open APIs](https://www.tmforum.org/open-apis)
 
-
-
